@@ -1,0 +1,43 @@
+{
+    "headers": {
+        "xPoweredBy": [
+            "PleskLin",
+            "PHP/5.3.29",
+            "PHP/5.2.17",
+            "PHP/5.3.3",
+            "PHP/5.4.37",
+            "PHP/5.5.9-lubuntu4.9",
+            "PHP/5.5.9-lubuntu4.4",
+            "PHP/5.4.40",
+            "ASP.NET",
+            "PHP/5.4.41",
+            "PHP/5.3.28",
+            "PHP/5.5.9-lubuntu4.5",
+            "PHP/5.4.39",
+            "PHP/5.4.42",
+            "PHP/5.3.10-lubuntu3.18",
+            "PHP/5.4.16",
+            "PHP/5.4.39-0+deb7u2",
+            "PHP/5.4.38",
+            "PHP/5.5.9-lubuntu4.7",
+            "PHP/5.4.35"
+        ],
+        "server": [
+            "Apache",
+            "nginx",
+            "Apache/2.4.7 (Ubuntu)",
+            "Apache/2.2.22 (Ubuntu)",
+            "Apache/2.2.22 (Debian)",
+            "Apache/2.2.22 (Ubuntu) OpenSSL/1.0.1f",
+            "Apache/2.2.22 (Debian) OpenSSL/1.0.1e",
+            "Apache/2.2.22 (Debian) OpenSSL/1.0.1e mod_bwlimited/1.4",
+            "Apache/2.2.22 (Debian) mod_bwlimited/1.4",
+            "Apache/2.2.22 (Debian) mod_fcgid/2.3.9",
+            "Apache/2.2.22 (Debian) mod_fcgid/2.3.9 OpenSSL/1.0.1e",
+            "Apache/2.2.22 (Debian) mod_fcgid/2.3.9 OpenSSL/1.0.1e mod_bwlimited/1.4",
+            "Apache/2.2.22 (Debian) mod_fcgid/2.3.9 mod_bwlimited/1.4",
+            "Apache/2.2.22 (Debian) mod_fcgid/2.3.9 mod_bwlimited/1.4 OpenSSL/1.0.1e",
+            "nginx/1.20"
+        ]
+    }
+}
