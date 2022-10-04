@@ -1,9 +1,9 @@
-const troller = require('../index');
+const amour = require('../index');
 const express = require('express');
 const app = express();
 
 app.use(
-    troller()
+    amour()
 );
 
 app.get('/', function(req, res) {

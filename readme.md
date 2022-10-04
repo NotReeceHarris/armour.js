@@ -10,17 +10,15 @@ npm i armour.js
 ### Setup
 This is a minimal setup using [expressjs](https://expressjs.com/), however any web-server libary that supports [middleware](https://en.wikipedia.org/wiki/Middleware) is compatable. By default security and mocking is enabled, for more information on options check the [wiki](https://github.com/NotReeceHarris/troller.js/wiki).
 ```js
-const troller = require('armour.js');
+const amour = require('armour.js');
 const express = require('express');
 const app = express();
 
 app.use(
-    troller(
-        {"paths": ['/block']}
-    )
+    amour()
 );
 
-app.get('/', function (req, res) {
+app.get('/', function(req, res) {
     res.send('Hello World');
 });
 
